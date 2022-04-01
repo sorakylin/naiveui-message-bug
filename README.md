@@ -2,6 +2,8 @@
 
 在SSR情况下使用 Naive ui Message 控件的无Icon bug复现。
 
+![](./public/message.png)
+
 <br/>
 
 ### 说明
@@ -16,6 +18,7 @@
 * 在项目根目录执行 `npm run dev`
 * 访问: http://localhost:3000/
 
-本项目弹框逻辑所在处：@/layout/DefaultLayout.vue
+本项目弹框逻辑所在处：@/layout/DefaultLayout.vue  
+PS: 打包后使用运行也一样
 <br/>
 
